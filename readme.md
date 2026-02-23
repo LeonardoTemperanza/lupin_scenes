@@ -1,0 +1,1 @@
+Collection of scenes for testing/playing around with the Lupin path tracing library. Authors and licenses are included in each scene's folder.
